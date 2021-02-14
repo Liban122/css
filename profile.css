@@ -1,0 +1,99 @@
+*{
+    text-transform: capitalize;
+}
+
+.hr{
+    border-top: 10px solid black;
+    margin-right: 85%;
+}
+
+input{
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
+
+hr{
+    border-top: 3px solid red;
+}
+
+#personal-data div{
+    display: block;
+   
+    margin-bottom: 10px;
+}
+
+.title{
+ margin-left: 20% ;
+ 
+    
+}
+
+.name{
+    margin-left: 15.7%;
+}
+
+.surname{
+    margin-left: 17%;
+}
+
+.gender{
+    margin-left: 20%;
+    
+}
+.lang-opt{
+    margin-left: 20%;
+}
+
+.tel{
+    margin-left: 20%;
+    
+}
+
+.mobile{
+    margin-left: 22%;
+    
+}
+.num{
+    margin-left: 18.5%;
+}
+
+.fax{
+    margin-left: 24.5%;
+}
+
+.mail, .mail2{
+    margin-left: 23%;
+}
+
+.com{
+    margin-left: 20%;
+}
+
+.add-com{
+    margin-left: 12%;
+}
+
+.home{
+    margin-left: 19.5%;
+}
+
+.add{
+   margin-left:14% ; 
+}
+
+.post{
+    margin-left: 19%;
+}
+
+.post-code{
+    margin-left: 15.5%;
+}
+
+.butt{
+    padding: 10px 32px;
+   background-color: red;
+    margin-left: 70%;
+    color: whitesmoke;
+    
+}
